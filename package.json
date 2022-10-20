@@ -1,0 +1,28 @@
+{
+  "name": "botsantander",
+  "version": "1.0.0",
+  "description": "Upgrade de https://twitter.com/DamianCatanzaro para Recibir Movimientos de Banco Santander por Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alnetarg/botSantander.git"
+  },
+  "keywords": [
+    "bot",
+    "Telegram",
+    "Banco",
+    "Santander"
+  ],
+  "author": "GH: alnetarg - TW: https://twitter.com/alegiammarino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alnetarg/botSantander/issues"
+  },
+  "homepage": "https://github.com/alnetarg/botSantander#readme",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
