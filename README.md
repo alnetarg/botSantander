@@ -14,3 +14,4 @@ En primera ejecución por consola salen ordenados ok, pero en Telegram llegan de
 
 # Legal
 
+Este material se distribuye sin ninguna garantía bajo una [licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional](http://creativecommons.org/licenses/by-nc-sa/4.0/). 
